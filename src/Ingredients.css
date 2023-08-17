@@ -1,0 +1,20 @@
+.Ingredients {
+    margin: 40px auto;
+    padding: 30px 50px;
+    width: 600px;
+    background-color: rgb(255, 232, 104);
+    border: 3px solid rgb(100, 100, 100);
+    border-radius: 10px;
+    text-align: left;
+    line-height: 40px;
+    font-size: 15px;
+}
+
+.Ingredients .form-control{
+    max-width: 230px;
+}
+
+.Ingredients button {
+    margin-top: 80px;
+    width: 230px;
+}
